@@ -1,8 +1,8 @@
 # ai-finance-portfolio
 This repo shows my journey combining equity research + AI/ML for UK buy-side roles.
 
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "Leo Lee"
+git config --global user.email "leolee.iamai@gmail.com"
 
 mkdir ai-finance-portfolio
 cd ai-finance-portfolio
