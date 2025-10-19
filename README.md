@@ -19,6 +19,8 @@ git add README.md
 git commit -m "docs: add project description to README"
 git push
 
+<img width="1088" height="704" alt="image" src="https://github.com/user-attachments/assets/5a139690-054a-4797-a77c-84290a6ccde7" />
+
 
 
 # .gitignore for Python
